@@ -10,7 +10,8 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
    movie-this
    
    do-what-it-says
-       
+   
+   ___
 
 --Technologies used:
 
@@ -20,6 +21,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 * Npm packages: Spotify, Axios, OMDb, Bands In town
 
+___
 
 --How to Run LIRI-Bot
 
@@ -27,9 +29,8 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 2) node liri.js spotify-this-song <song name here> This will show the following information about the song in your terminal/bash window * Artist(s) * The song's name * A preview link of the song from Spotify * The album that the song is from
 
-if no song is provided then the program will default to
-"The Sign" by Ace of Base
-
+   if no song is provided then the program will default to
+   "The Sign" by Ace of Base
 
 
 3) node liri.js movie-this <movie name here>
@@ -51,7 +52,7 @@ If the user doesn't type a movie in, the program will output data for the movie 
 
 This will output the command placed in random.txt file
 
-
+___
 ** CLick for Video! Don't forget to adjust resolution!**
 [![](https://i.vimeocdn.com/video/746503578.jpg)](https://player.vimeo.com/video/306703692)
 
