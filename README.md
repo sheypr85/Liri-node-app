@@ -50,4 +50,6 @@ If the user doesn't type a movie in, the program will output data for the movie 
 This will output the command placed in random.txt file
 
 
-<iframe src="https://player.vimeo.com/video/306703692" width="640" height="370" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[![Alt text](https://player.vimeo.com/video/306703692)](https://player.vimeo.com/video/306703692)
+
