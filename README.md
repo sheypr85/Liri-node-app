@@ -50,6 +50,6 @@ If the user doesn't type a movie in, the program will output data for the movie 
 This will output the command placed in random.txt file
 
 
-
-[![CLick for Video! Don't forget to adjust resolution!](https://i.vimeocdn.com/video/746503578.jpg)](https://player.vimeo.com/video/306703692)
+** CLick for Video! Don't forget to adjust resolution!**
+[![](https://i.vimeocdn.com/video/746503578.jpg)](https://player.vimeo.com/video/306703692)
 
