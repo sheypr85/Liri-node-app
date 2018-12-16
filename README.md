@@ -14,9 +14,11 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 --Technologies used:
 
-Node.js
-Javascript
-npm packages: Spotify, Axios, OMDb, Bands In town
+* Node.js
+
+* Javascript
+
+* Npm packages: Spotify, Axios, OMDb, Bands In town
 
 
 --How to Run LIRI-Bot
