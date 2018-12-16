@@ -1,8 +1,8 @@
 
 var keys = require("./keys");
-//Require data from File System npm package
+
 var fs = require("fs");
-//Require data from Axios npm package
+
 var axios = require("axios");
 
 
@@ -16,7 +16,7 @@ function myMovies(userInput) {
     var url = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey="+keys.omdb.id;
     axios.get(url).then(
         function (response) {
-            // console.log(response.data)
+            
                 console.log("--------------------------\n")
                 console.log("Movie Title: " + response.data.Title);
                 console.log("Year: " + response.data.Year);

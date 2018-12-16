@@ -11,9 +11,9 @@ var myMovies = require("./movie.js");
 
 var myConcert = require("./bands.js");
 
-//Creates initial user command.
+//Creates initial user command
 var userCommand=process.argv[2];
-//Creates user input.
+//Creates user input
 var userInput=process.argv.splice(3,process.argv.length).join(' ');
 
 
@@ -36,14 +36,14 @@ switch (userCommand) {
 
 function doWhatItSays() {
     fs.readFile("random.txt", "utf8", function(error, data) {
-        //Return error if error occurs.
+        //Return if any errors
         if (error) {
             return console.log(error);
         }
-        // Then split it by commas (to make it more readable)
+
         var dataArr = data.split(",");
         
-        // Each command is represented. Because of the format in the txt file, remove the quotes to run these commands. 
+        // Each command is represented. Because of the format in the txt file, remove quotes to run these commands. 
         if (dataArr[0] === "spotify-this-song") {
             var songcheck = dataArr[1].slice(1, -1);
             console.log("Song Check: "+ songcheck)

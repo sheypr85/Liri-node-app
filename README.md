@@ -16,7 +16,7 @@ Technologies used:
 
 Node.js
 Javascript
-npm packages: Spotify, Axios, OMDb
+npm packages: Spotify, Axios, OMDb, Bands In town
 
 
 How to Run LIRI-Bot
