@@ -25,11 +25,17 @@ ___
 
 --How to Run LIRI-Bot
 
-1) node liri.js concert-this 
+1) node liri.js concert-this <Artist Name>
+   * This will show the Upcoming shows for the selected Artist
 
-2) node liri.js spotify-this-song <song name here> This will show the following information about the song in your terminal/bash window * Artist(s) * The song's name * A preview link of the song from Spotify * The album that the song is from
+2) node liri.js spotify-this-song <song name here> 
+   * This will show the following information about the song in your terminal
+      - Song Name
+      - Artist
+      - Album Name
+      - Preview of the Song
 
-   if no song is provided then the program will default to
+   * If no song is provided then the program will default to
    "The Sign" by Ace of Base
 
 
