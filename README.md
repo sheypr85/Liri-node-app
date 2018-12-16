@@ -45,6 +45,9 @@ Rotten Tomatoes Rating.
 Rotten Tomatoes URL.
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
-4: node liri.js do-what-it-says
+4) node liri.js do-what-it-says
 
 This will output the command placed in random.txt file
+
+
+<iframe src="https://player.vimeo.com/video/306703692" width="640" height="370" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
