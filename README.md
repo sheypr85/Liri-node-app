@@ -51,5 +51,5 @@ This will output the command placed in random.txt file
 
 
 
-[![Alt text](https://player.vimeo.com/video/306703692)](https://player.vimeo.com/video/306703692)
+[![](https://i.vimeocdn.com/video/746503578.jpg)](https://player.vimeo.com/video/306703692)
 
