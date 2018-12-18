@@ -40,7 +40,6 @@ function doWhatItSays() {
         if (error) {
             return console.log(error);
         }
-
         var dataArr = data.split(",");
         
         // Each command is represented. Because of the format in the txt file, remove quotes to run these commands. 

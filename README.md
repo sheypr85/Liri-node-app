@@ -43,12 +43,12 @@ ___
 
    * This will output the following information to your terminal/bash window:
 
-      - Title of the movie.
-      - Year the movie came out.
-      - IMDB Rating.
-      - Country where the movie was produced.
-      - Language of the movie.
-      - Plot of the movie.
+      -  Title of the movie.
+      -  Year the movie came out.
+      -  IMDB Rating.
+      -  Country where the movie was produced.
+      -  Language of the movie.
+      -  Plot of the movie.
       -  Actors in the movie.
       -  Rotten Tomatoes Rating.
       -  Rotten Tomatoes URL.
